@@ -1,0 +1,79 @@
+{
+    "1": {
+        "ID": 771838,
+        "nume": "Razvan Zamfirescu",
+        "oras": "Bucuresti",
+        "Telefon": "0755",
+        "balance": 125
+    },
+    "2": {
+        "ID": 671355,
+        "nume": "Gabriel Garcia Marquez",
+        "oras": "Aracataca",
+        "Telefon": "23252221",
+        "balance": 15
+    },
+    "3": {
+        "ID": 648679,
+        "nume": "Vlad Zamfirescu",
+        "oras": "Timisoara",
+        "Telefon": "022223",
+        "balance": 18000
+    },
+    "4": {
+        "ID": 719721,
+        "nume": "Elena",
+        "oras": "Timisoara",
+        "Telefon": "0155",
+        "balance": 0
+    },
+    "5": {
+        "ID": 194528,
+        "nume": "Zoe Vanchilescu",
+        "oras": "Timisoara",
+        "Telefon": "074553",
+        "balance": 15596
+    },
+    "6": {
+        "ID": 546990,
+        "nume": "Herta Muller",
+        "oras": "BErlin",
+        "Telefon": "49852",
+        "balance": 1503
+    },
+    "7": {
+        "ID": 981915,
+        "nume": "Mario Vargas Llosa",
+        "oras": "Buenos Aires",
+        "Telefon": "22336555",
+        "balance": 0
+    },
+    "8": {
+        "ID": 100000,
+        "nume": "Carlo Collodi",
+        "oras": "Pisa",
+        "Telefon": "02574",
+        "balance": "1024"
+    },
+    "9": {
+        "ID": 833749,
+        "nume": "Kazuo Ishiguro",
+        "oras": "Tokyo",
+        "Telefon": "25222",
+        "balance": "190"
+    },
+    "10": {
+        "ID": 764125,
+        "nume": "Patrick Modiano",
+        "oras": "Paris",
+        "Telefon": "423555",
+        "balance": "1210298"
+    },
+    "11": {
+        "ID": 452359,
+        "nume": "Mihai Eminescu",
+        "oras": "Ipotesti",
+        "Telefon": "2566",
+        "balance": "30"
+    }
+}
